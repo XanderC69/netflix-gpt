@@ -1,12 +1,7 @@
-
-import './App.css';
+import Body from './components/Body';
 
 function App() {
-  return (
-    <div className="text-4xl App">
-      netflix
-    </div>
-  );
+  return <Body />
 }
 
 export default App;
